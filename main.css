@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body {
+    background-color: black;
+    font-family: Quicksand;
+
+}
+
+.home_blank {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+}
+
+.HOME {
+    color: white;
+    margin-top: 100vh;
+    height: 50hv;
+}
+
+.homee {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50vh;
